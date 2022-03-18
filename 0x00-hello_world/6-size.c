@@ -2,11 +2,10 @@
 
 /**
  *
- *  * main - entry point
+ * main - entry point
+ * Return: 0 main function returns nothing
  *
- *   * Return: 0 main function returns nothing
- *
- *    */
+ */
 
 int main(void)
 
@@ -14,11 +13,11 @@ int main(void)
 
 		/**
 		 *
-		 * 	 * declare the data types whose
+		 * declare the data types whose
 		 *
-		 * 	 	 * size is to be checked
+		 * size is to be checked
 		 *
-		 * 	 	 	 */
+		 */
 
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
 
