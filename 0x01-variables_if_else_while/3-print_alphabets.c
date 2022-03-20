@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - print the alphabet in lowercase,
- * followed by a new line
- * Return Always 0 (success)
+ * main - main block
+ * Description: use 'purchat' to print lowercase and then uppercase alphabet.
+ * Return: 0
  */
+
 int main(void)
 {
 	int ch;
