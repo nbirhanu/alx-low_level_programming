@@ -14,6 +14,7 @@ if (head != NULL)
 {
 curr = *head;
 while ((temp = curr) != NULL)
+{
 curr = curr->next;
 free(temp);
 }
