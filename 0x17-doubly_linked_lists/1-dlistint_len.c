@@ -14,5 +14,5 @@ while (h)
 nodes++;
 h = h->next;
 }
-return (1);
+return (nodes);
 }
